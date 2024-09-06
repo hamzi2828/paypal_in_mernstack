@@ -9,8 +9,8 @@ app.use(cors());
 
 paypal.configure({
     "mode":'sandbox',
-    "client_id": "AZw3iVgQzefYuxjs5smx9TPZvtUwipCpfZNakWFIzsLGk5wuGUuRVeZPUs6du0ow4S9-WtuU1PoSkpMc",
-    "client_secret": 'EJtAsfJZwXmYbtSwKIK9V5MI2Dfqia7m47cNPmuwSiApmVPycfsCkOx_zHWmxgcvA6ORS727XxZnuNVw',
+    "client_id": "",
+    "client_secret": '',
 });
 
 
